@@ -34,18 +34,18 @@ This C++ project implements several encryption algorithms, including Caesar, Ham
 
 2. **Hamming Code:**
    ```bash
-   g++ haming.cpp -o caesar
+   g++ haming.cpp -o haming
    ./haming
    ```
 
 3. **Playfair Cipher:**
    ```bash
-   g++ playfair.cpp -o caesar
+   g++ playfair.cpp -o playfair
    ./playfair 
    ```
 
 4. **RC4**
    ```bash
-   g++ rc4.cpp -o caesar
+   g++ rc4.cpp -o rc4
    ./rc4 
    ```#
